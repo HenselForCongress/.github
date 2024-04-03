@@ -1,0 +1,109 @@
+#   Hensel for Congress Label Config
+#
+#       - name: Yet another label
+#         color: '222222'
+#         description: A very inspiring description
+#         aliases: ['first', 'second', 'third']
+#
+
+#
+#   Core Issue Types
+#
+
+- name: 🛠️ Task
+  color: "0052CC"
+  description: General tasks, including development and operational activities
+  aliases: ["To-Do", "General Task"]
+
+- name: 🧚 Feature Request
+  color: "F8D600"
+  description: Requests for new features specific to campaign needs
+  aliases: ["New Feature", "Campaign Feature"]
+
+- name: 📚 Documentation
+  color: "9A9A9A"
+  description: For campaign tech stack documentation and user guides
+  aliases: ["Docs", "Guides"]
+
+- name: 🐛 Bug
+  color: "CC0000"
+  description: For issues related to software bugs and glitches
+  aliases: ["Error", "Glitch"]
+
+- name: 🔍 Investigation
+  color: "0052CC"
+  description: For tasks that require deep dive investigations or data analysis
+  aliases: ["Data Analysis", "Research"]
+
+# Campaign-Specific Labels
+
+- name: 📢 Outreach
+  color: "F67019"
+  description: Issues related to voter outreach, social media, and public engagement
+  aliases: ["Engagement", "Social Media"]
+
+- name: 🔥 Urgent
+  color: "CC0000"
+  description: Tasks or issues that require immediate attention, critical for campaign operations
+  aliases: ["Critical", "High Priority"]
+
+- name: 🌱 Good First Task
+  color: "208A56"
+  description: Suitable for volunteers or new contributors to the campaign tech team
+  aliases: ["Easy Pick", "Starter Task"]
+
+- name: 📈 Metrics
+  color: "9A9A9A"
+  description: For tracking and discussing campaign-related metrics or KPIs
+  aliases: ["KPIs", "Analytics"]
+
+- name: 💬 Support
+  color: "007CBB"
+  description: For tech support issues encountered by the campaign team or volunteers
+  aliases: ["Tech Help", "User Support"]
+
+# Collaboration and Planning
+
+- name: 🗳️ Feedback Needed
+  color: "0052CC"
+  description: Where input or decision from the campaign team is needed
+  aliases: ["Input Requested", "Decision Needed"]
+
+- name: 🤔 Planning
+  color: "E2C7A5"
+  description: For issues around strategic planning and feature prioritization
+  aliases: ["Strategy", "Roadmap"]
+
+- name: 🔒 Blocked
+  color: "000000"
+  description: For tasks that cannot proceed until other issues are resolved
+  aliases: ["Dependency", "Waiting"]
+
+# Teams and Focus Areas
+
+- name: 🖼️ Content Creation
+  color: "E2A6F7"
+  description: Related to the creation of campaign content, like videos or blog posts
+  aliases: ["Videos", "Blogs"]
+
+- name: 🚀 Campaign Initiatives
+  color: "F8D600"
+  description: For launching or managing specific campaign initiatives or events
+  aliases: ["Events", "Initiatives"]
+
+- name: ♿ Accessibility
+  color: "0052CC"
+  description: Ensuring all campaign materials and tools are accessible
+  aliases: ["ADA Compliance", "Accessibility Checks"]
+
+- name: 🏰 Security
+  color: "CC0033"
+  description: Focused on the cybersecurity aspects of the campaign’s technology
+  aliases: ["Cybersecurity", "Data Privacy"]
+
+# Optional: Data Analysis and Reporting
+
+- name: 📊 Data Reports
+  color: "0366D6"
+  description: For issues or tasks related to the analysis and reporting of campaign data
+  aliases: ["Voter Data", "Campaign Analytics"]

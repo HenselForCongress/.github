@@ -1,0 +1,17 @@
+# -----------------------
+# Gitignore
+# -----------------------
+
+# 🌎ly General
+.DS_Store
+.env
+scratch.*
+
+
+# 📝 Specific
+
+
+# 🐍 Specific
+__pycache__
+
+

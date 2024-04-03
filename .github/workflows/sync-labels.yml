@@ -1,0 +1,28 @@
+# Source: https://github.com/marketplace/actions/label-sync
+
+name: Sync labels
+on:
+  workflow_dispatch:
+
+  push:
+    paths:
+      - ".github/configs/labels.yml"
+
+jobs:
+  # Source: https://github.com/marketplace/actions/label-syncer
+  label-org-repos:
+    name: Label Org Repos
+    runs-on: ubuntu-latest
+    needs: label-admin-repo
+    steps:
+      - uses: actions/checkout@v2
+      - uses: micnncim/action-label-syncer@v1
+        with:
+          manifest: .github/configs/labels.yml
+          repository: |
+            HenselForCongress/Ghost
+            HenselForCongress/policy
+            HenselForCongress/.github
+            HenselForCongress/finance-reports
+            HenselForCongress/references
+          token: ${{ secrets.BOT_TOKEN }}
