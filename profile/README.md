@@ -1,13 +1,45 @@
-# Hensel for Congress
+![Hensel for Congress](https://henselforcongress.com/assets/h4c_github_org.svg)
+# Hensel for Congress GitHub Organization
 
-## The Repos
+Our mission is to leverage technology to bring transparency and modernization to political campaigns and government operations.
+
+[Campaign Website](https://henselforcongress.com) | [Donate](https://secure.anedot.com/hensel-for-congress/github-support) | [Get Involved](https://github.com/orgs/HenselForCongress/projects/4)
+
+## Repositories
+
+### [Sunbeam](https://github.com/HenselForCongress/sunbeam)
+Sunbeam is an innovative tool for instantly reporting campaign finance data publicly, ensuring transparency and accountability in political campaigns.
+
+### [References](https://github.com/HenselForCongress/references)
+This repository contains references and schema files essential for our various projects.
+
+### [Ghost Vote](https://github.com/HenselForCongress/ghost-vote)
+A custom flavor of Ghost's Casper theme for henselforcongress.com, enhancing our campaign's web presence.
+
+### [ISP Docs](https://github.com/HenselForCongress/isp-docs)
+**Note:** This repository is not official. It is a MKDocification of the ISP WordPress posts for better documentation and access.
+
+### [Financial Discloser](https://github.com/HenselForCongress/financial-discloser)
+A Rust-based application dedicated to downloading financial disclosure reports in PDF format and generating an index based on data from specific government repositories. This project is useful for researchers and analysts who need organized access to these documents for further analysis. It is very much a work in progress.
+
+### [Daylight](https://github.com/HenselForCongress/daylight)
+An app that interacts with Sunbeam to stage data before submitting it to the FEC, essentially an improved version of FECFile without reliance on Microsoft.
+
+### [Jack](https://github.com/HenselForCongress/jack)
+A custom app designed to help manage the signatures needed to access the ballot. Now that the campaign is on the ballot, this project is depricated.
 
 ## License
 
-Unless otherwise specified, all repos in Hensel for Congress are licensed under the GNU Affero General Public License version 3.0 (AGPL-3.0).
+All repositories under the Hensel for Congress organization are licensed under the GNU Affero General Public License version 3.0 (AGPL-3.0). You are free to use, copy, distribute, and modify the software as long as any modifications or derivative works are also licensed under AGPL-3.0. This ensures that the source code remains available to users interacting with the software over a network, promoting transparency and the freedom to modify networked software.
 
-This means that you are free to use, copy, distribute, and modify the software, as long as any modifications or derivative works you create are also licensed under the AGPL-3.0. One of the key distinctions of the AGPL-3.0 is that if you run a modified program on a server and let other users communicate with it there, you must also make the modified source available to those users under AGPL-3.0.
+For more details, see the [full text of the license](https://www.gnu.org/licenses/agpl-3.0.html).
 
-This requirement ensures that the source code is available to users who interact with the software over a network, promoting transparency and the freedom to modify networked software. Additionally, any distribution of the software or its derivatives, including offering access to it over a network, must include the source code, license information, and any modifications.
-
-For more information about the terms and conditions of the AGPL-3.0 license, please see the [full text of the license](https://www.gnu.org/licenses/agpl-3.0.html).
+<div align="center">
+  <table border="1" style="border-collapse: collapse; border: 2px solid black; margin-left: auto; margin-right: auto;">
+    <tr>
+      <td style="padding: 10px;">
+        Paid for by Hensel for Congress
+      </td>
+    </tr>
+  </table>
+</div>
