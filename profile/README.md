@@ -1,4 +1,4 @@
-![Hensel for Congress](https://henselforcongress.com/assets/h4c_github_org.svg)
+![Hensel for Congress](/assets/h4c_github_org.svg)
 # Hensel for Congress GitHub Organization
 
 Our mission is to leverage technology to bring transparency and modernization to political campaigns and government operations.
