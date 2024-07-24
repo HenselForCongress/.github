@@ -1,9 +1,18 @@
 ![Hensel for Congress](/assets/h4c_github_org.svg)
-# Hensel for Congress GitHub Organization
 
 Our mission is to leverage technology to bring transparency and modernization to political campaigns and government operations.
 
-[Campaign Website](https://henselforcongress.com) | [Donate](https://secure.anedot.com/hensel-for-congress/github-support) | [Get Involved](https://github.com/orgs/HenselForCongress/projects/4)
+<div id="social" align="center">
+  <a href="https://henselforcongress.com" target="_blank"><img src="https://img.shields.io/badge/Campaign%20Website-3066BD?style=for-the-badge&logoColor=white" alt="Hensel for Congress Campaign Website"/></a>
+  &nbsp; &nbsp; &nbsp;
+  <a href="https://secure.anedot.com/hensel-for-congress/github-support" target="_blank"><img src="https://img.shields.io/badge/Donate-3066BD?style=for-the-badge&logo=donate&logoColor=white" alt="Donate to Hensel for Congress"/></a>
+  &nbsp; &nbsp; &nbsp;
+  <a href="https://github.com/orgs/HenselForCongress/projects/4" target="_blank"><img src="https://img.shields.io/badge/Get%20Involved-3066BD?style=for-the-badge&logoColor=white" alt="Get Involved with Hensel for Congress"/></a>
+</div>
+
+## Getting Involved
+If you want to support our work, our good first tasks are found in [this GitHub project](https://github.com/orgs/HenselForCongress/projects/4). These tasks are designed to help you get started with contributing to our projects and making a meaningful impact.
+
 
 ## Repositories
 
@@ -26,7 +35,7 @@ A Rust-based application dedicated to downloading financial disclosure reports i
 An app that interacts with Sunbeam to stage data before submitting it to the FEC, essentially an improved version of FECFile without reliance on Microsoft.
 
 ### [Jack](https://github.com/HenselForCongress/jack)
-A custom app designed to help manage the signatures needed to access the ballot. Now that the campaign is on the ballot, this project is depricated.
+An app designed to help manage the signatures needed to access the ballot. Now that the campaign is on the ballot, this project is depricated.
 
 ## License
 
