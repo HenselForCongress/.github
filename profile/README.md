@@ -1,7 +1,7 @@
-![Hensel for Congress](/assets/h4c_github_org.svg)
+<center><img src="/assets/h4c_github_org.svg" alt="Hensel for Congress"/></center>
 
-Our mission is to leverage technology to bring transparency and modernization to political campaigns and government operations.
-
+<center>Our mission is to leverage technology to bring transparency and modernization to political campaigns and government operations.</center>
+<p></p>
 <div id="social" align="center">
   <a href="https://henselforcongress.com" target="_blank"><img src="https://img.shields.io/badge/Campaign%20Website-3066BD?style=for-the-badge&logoColor=white" alt="Hensel for Congress Campaign Website"/></a>
   &nbsp; &nbsp; &nbsp;
